@@ -1,0 +1,2 @@
+# ActivityInteractive
+Activity跳转：开启子Activity并获取返回值，携带数据跳转到另一个Activity。
